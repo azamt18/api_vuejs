@@ -1,0 +1,8 @@
+1. install vue-cli
+2. install web-storm
+3. web-storm:terminal: vue ui to google chrome
+4. google chrome: localhost:8080 -> project manager: create new project in distinct folder ("API [Vuejs]")
+5. learn vue-router: router-link = component-name
+6. create components
+7. build project: webpack -> "dist" folder
+8. copy "dist" folder files to "Help" folder
